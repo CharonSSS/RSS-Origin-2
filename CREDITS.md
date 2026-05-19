@@ -25,29 +25,29 @@
 
 ### I would like to thank the following people from Celestia community:
 	Askaniy (TrueColorTools and CylindricalTextureCalibrator)
-	Contributers to TrueColorTools and CylindricalTextureCalibrator
+	Contributors to TrueColorTools and CylindricalTextureCalibrator
 	AstroChara (discussion and suggestions)
 	Medium bluish violet Marker (Dactyl model and texture)
-	arbodox, Luna, and more Celestia community members who have given advices in the development of RSS-Origin 2
+	arbodox, Luna, and more Celestia community members who have given advice in the development of RSS-Origin 2
 
 # Scientific Data Base
 Orbital data of all heliocentric objects are from [NASA/JPL's Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/).
 
-Orbital data of moons of Jupiter, Saturn, Uranus and Neptune except the followings are from [NASA/JPL's Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/): Amalthea, Thebe, Adrastea, Metis, Janus, Epimetheus, Atlas, Prometheus, Pandora, Pan, Daphnis, Aegaeon, Cordelia, Ophelia, Bianca, Cressida, Desdemona, Juliet, Portia, Rosalind, Belinda, Puck, Perdita, Mab, Cupid, Naiad, Thalassa, Despina, Galatea, Larissa, Proteus, Hippocamp.
+Orbital data of moons of Jupiter, Saturn, Uranus and Neptune except the following are from [NASA/JPL's Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/): Amalthea, Thebe, Adrastea, Metis, Janus, Epimetheus, Atlas, Prometheus, Pandora, Pan, Daphnis, Aegaeon, Cordelia, Ophelia, Bianca, Cressida, Desdemona, Juliet, Portia, Rosalind, Belinda, Puck, Perdita, Mab, Cupid, Naiad, Thalassa, Despina, Galatea, Larissa, Proteus, Hippocamp.
 
 Orbital data of the following moons are from [himisawww/Ephemeris](https://github.com/himisawww/Ephemeris): Amalthea, Thebe, Adrastea, Metis, Janus, Epimetheus, Atlas, Prometheus, Pandora, Pan, Daphnis, Aegaeon, Cordelia, Ophelia, Bianca, Cressida, Desdemona, Juliet, Portia, Rosalind, Belinda, Puck, Perdita, Mab, Cupid, Naiad, Thalassa, Despina, Galatea, Larissa, Proteus, Hippocamp.
 
-Orbital data of moons of asteroids, dwarf planets and comets are from latest astronomy literature, researcher's websites or [Johnston's Archive](https://www.johnstonsarchive.net/astro/asteroidmoons.html).
+Orbital data of moons of asteroids, dwarf planets and comets are from latest astronomical literature, researcher's websites or [Johnston's Archive](https://www.johnstonsarchive.net/astro/asteroidmoons.html).
 
-Physical properties are from latest astronomy literatures, [Johnston's Archive](https://www.johnstonsarchive.net/astro/asteroidmoons.html) or [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).
+Physical properties are from latest astronomical literature, [Johnston's Archive](https://www.johnstonsarchive.net/astro/asteroidmoons.html) or [Wikipedia](https://en.wikipedia.org/wiki/Main_Page).
 
-Physical properties that are not known are my personal assumption based on little known data or analogies of the same kind.
+Physical properties that are not known are based on my personal assumptions based on little known data or analogies of the same kind.
 
-All of the color data are from [TrueColorTools by Askaniy](https://github.com/Askaniy/TrueColorTools). [CylindricalTextureCalibrator by Askaniy](https://github.com/Askaniy/CylindricalTextureCalibrator) are used to process color maps.
+All of the color data are from [TrueColorTools by Askaniy](https://github.com/Askaniy/TrueColorTools). [CylindricalTextureCalibrator by Askaniy](https://github.com/Askaniy/CylindricalTextureCalibrator) was used to process color maps.
 
 ## Note on content from JPL
 
-RSS-Origin 2 have used texture maps and models that comes from JPL websites. Those contents are subject to the JPL Image Use Policy. The latest version of this policy can be found at https://www.jpl.nasa.gov/imagepolicy/. Also refer to https://space.jpl.nasa.gov/faq.html for clarity on how textures/models are covered.
+RSS-Origin 2 has used texture maps and models that come from JPL websites. Those contents are subject to the JPL Image Use Policy. The latest version of this policy can be found at https://www.jpl.nasa.gov/imagepolicy/. Also refer to https://space.jpl.nasa.gov/faq.html for clarity on how textures/models are covered.
 
 ### JPL Image Use Policy
 
@@ -69,7 +69,7 @@ Unless otherwise noted, images and video on JPL public web sites (public sites e
 
 Most of the visited objects' textures are directly or indirectly from NASA/JPL.
 
-Most textures of unvisited objects and distantly visited objects are customly exported using SpaceEngine Pro, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin-2/blob/main/assets/SpaceEngine%20PRO%20License.txt). 
+Most textures of unvisited objects and distantly visited objects are custom‑exported using SpaceEngine Pro, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin-2/blob/main/assets/SpaceEngine%20PRO%20License.txt). 
 
 Credit list of textures in RSS-Origin 2:
 - SVII Hyperion - [A.E. Zubarev, I.E. Nadezhdina](https://www.sciencedirect.com/science/article/pii/S0019103524005001?via%3Dihub)

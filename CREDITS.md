@@ -69,7 +69,7 @@ Unless otherwise noted, images and video on JPL public web sites (public sites e
 
 Most of the visited objects' textures are directly or indirectly from NASA/JPL.
 
-Most textures of unvisited objects and distantly visited objects are customly exported using SpaceEngine Pro, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin/blob/main/assets/SpaceEngine%20PRO%20License.txt). 
+Most textures of unvisited objects and distantly visited objects are customly exported using SpaceEngine Pro, allowed to use and modify under the [license of SpaceEngine Pro](https://github.com/CharonSSS/RSS-Origin-2/blob/main/assets/SpaceEngine%20PRO%20License.txt). 
 
 Credit list of textures in RSS-Origin 2:
 - SVII Hyperion - [A.E. Zubarev, I.E. Nadezhdina](https://www.sciencedirect.com/science/article/pii/S0019103524005001?via%3Dihub)
@@ -77,6 +77,7 @@ Credit list of textures in RSS-Origin 2:
 - NII Nereid - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Nereid-addon-for-Celestia-and-Blender-Mesh-715822623)
 - 21 Lutetia - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
 - 243 Ida - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
+- (243) Ida I Dactyl - Own work of Medium bluish violet Marker
 - 253 Mathilde - [Askaniy](https://www.deviantart.com/askaniy/art/253-Mathilde-Grayscale-Texture-Map-833589592)
 - 433 Eros - [Askaniy](https://www.deviantart.com/askaniy/art/433-Eros-Grayscale-Texture-Map-14K-825783102)
 - 951 Gaspra - [Celestia Origin](https://celestiaproject.space/forum/viewtopic.php?f=23&t=24611)
@@ -108,5 +109,6 @@ Credit list of models in RSS-Origin 2:
 - UXV Puck - [Celestia](https://celestiaproject.space/)
 - NII Nereid - [Astra-Planetshine](https://www.deviantart.com/astra-planetshine/art/Nereid-addon-for-Celestia-and-Blender-Mesh-715822623)
 - 16 Psyche - [PsycheMission (Lindy Elkins-Tanton, Peter Rubin, et al.)](https://www.thingiverse.com/thing:2373526)
+- (243) Ida I Dactyl - Own work of Medium bluish violet Marker
 - 52246 Donaldjohanson - [Itzmcool, domi9 and SpaceExplorer on Celestia forum](https://celestiaproject.space/forum/viewtopic.php?f=23&t=18410&p=163471&hilit=dinkinesh#p163471) and [arkeomapia on Sketchfab](https://sketchfab.com/3d-models/52246-donaldjohanson-from-lucy-spacecraft-00e87877346b4556ad6b80c03d7d4ab2)
 - 152830 Dinkinesh-Selam - [Itzmcool, domi9 and SpaceExplorer on Celestia forum](https://celestiaproject.space/forum/viewtopic.php?f=23&t=18410&p=163471&hilit=dinkinesh#p163471)

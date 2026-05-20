@@ -112,3 +112,5 @@ Credit list of models in RSS-Origin 2:
 - (243) Ida I Dactyl - Own work of Medium bluish violet Marker
 - 52246 Donaldjohanson - [Itzmcool, domi9 and SpaceExplorer on Celestia forum](https://celestiaproject.space/forum/viewtopic.php?f=23&t=18410&p=163471&hilit=dinkinesh#p163471) and [arkeomapia on Sketchfab](https://sketchfab.com/3d-models/52246-donaldjohanson-from-lucy-spacecraft-00e87877346b4556ad6b80c03d7d4ab2)
 - 152830 Dinkinesh-Selam - [Itzmcool, domi9 and SpaceExplorer on Celestia forum](https://celestiaproject.space/forum/viewtopic.php?f=23&t=18410&p=163471&hilit=dinkinesh#p163471)
+
+I would like to thank GamesLinx for let me using some of the meshes from Parallax_StockScatterTextures. ParallaxContinued's license is All Rights Reserved, so all content inside `GameData/RSSOrigin2/Patches/Models` use ARR license as well.

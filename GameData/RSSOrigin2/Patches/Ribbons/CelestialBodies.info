@@ -1,0 +1,2660 @@
+Amalthea
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Amalthea
+		base prestige = 599505
+	}
+}
+Himalia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Himalia
+		base prestige = 599506
+	}
+}
+Elara
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Elara
+		base prestige = 599507
+	}
+}
+Pasiphae
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Pasiphae
+		base prestige = 599508
+	}
+}
+Carme
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Carme
+		base prestige = 599511
+	}
+}
+Ananke
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ananke
+		base prestige = 599512
+	}
+}
+Thebe
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Thebe
+		base prestige = 599514
+	}
+}
+Adrastea
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Adrastea
+		base prestige = 599515
+	}
+}
+Metis
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Metis
+		base prestige = 599516
+	}
+}
+Themisto
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Themisto
+		base prestige = 599518
+	}
+}
+Hyperion
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hyperion
+		base prestige = 699607
+	}
+}
+Phoebe
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Phoebe
+		base prestige = 699609
+	}
+}
+Janus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Janus
+		base prestige = 699610
+	}
+}
+Epimetheus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Epimetheus
+		base prestige = 699611
+	}
+}
+Helene
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Helene
+		base prestige = 699612
+	}
+}
+Telesto
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Telesto
+		base prestige = 699613
+	}
+}
+Calypso
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Calypso
+		base prestige = 699614
+	}
+}
+Atlas
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Atlas
+		base prestige = 699615
+	}
+}
+Prometheus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Prometheus
+		base prestige = 699616
+	}
+}
+Pandora
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Pandora
+		base prestige = 699617
+	}
+}
+Pan
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Pan
+		base prestige = 699618
+	}
+}
+Ymir
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ymir
+		base prestige = 699619
+	}
+}
+Paaliaq
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Paaliaq
+		base prestige = 699620
+	}
+}
+Kiviuq
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Kiviuq
+		base prestige = 699624
+	}
+}
+Albiorix
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Albiorix
+		base prestige = 699626
+	}
+}
+Siarnaq
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Siarnaq
+		base prestige = 699629
+	}
+}
+Methone
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Methone
+		base prestige = 699632
+	}
+}
+Pallene
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Pallene
+		base prestige = 699633
+	}
+}
+Polydeuces
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Polydeuces
+		base prestige = 699634
+	}
+}
+Daphnis
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Daphnis
+		base prestige = 699635
+	}
+}
+Anthe
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Anthe
+		base prestige = 699649
+	}
+}
+Aegaeon
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Aegaeon
+		base prestige = 699653
+	}
+}
+Cordelia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Cordelia
+		base prestige = 799706
+	}
+}
+Ophelia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ophelia
+		base prestige = 799707
+	}
+}
+Bianca
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Bianca
+		base prestige = 799708
+	}
+}
+Cressida
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Cressida
+		base prestige = 799709
+	}
+}
+Desdemona
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Desdemona
+		base prestige = 799710
+	}
+}
+Juliet
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Juliet
+		base prestige = 799711
+	}
+}
+Portia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Portia
+		base prestige = 799712
+	}
+}
+Rosalind
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Rosalind
+		base prestige = 799713
+	}
+}
+Belinda
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Belinda
+		base prestige = 799714
+	}
+}
+Puck
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Puck
+		base prestige = 799715
+	}
+}
+Caliban
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Caliban
+		base prestige = 799716
+	}
+}
+Sycorax
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Sycorax
+		base prestige = 799717
+	}
+}
+Francisco
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Francisco
+		base prestige = 799722
+	}
+}
+Margaret
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Margaret
+		base prestige = 799723
+	}
+}
+Ferdinand
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ferdinand
+		base prestige = 799724
+	}
+}
+Perdita
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Perdita
+		base prestige = 799725
+	}
+}
+Mab
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Mab
+		base prestige = 799726
+	}
+}
+Cupid
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Cupid
+		base prestige = 799727
+	}
+}
+Nereid
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Nereid
+		base prestige = 899802
+	}
+}
+Naiad
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Naiad
+		base prestige = 899803
+	}
+}
+Thalassa
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Thalassa
+		base prestige = 899804
+	}
+}
+Despina
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Despina
+		base prestige = 899805
+	}
+}
+Galatea
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Galatea
+		base prestige = 899806
+	}
+}
+Larissa
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Larissa
+		base prestige = 899807
+	}
+}
+Proteus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Proteus
+		base prestige = 899808
+	}
+}
+Halimede
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Halimede
+		base prestige = 899809
+	}
+}
+Psamathe
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Psamathe
+		base prestige = 899810
+	}
+}
+Sao
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Sao
+		base prestige = 899811
+	}
+}
+Laomedeia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Laomedeia
+		base prestige = 899812
+	}
+}
+Neso
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Neso
+		base prestige = 899813
+	}
+}
+Hippocamp
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hippocamp
+		base prestige = 899814
+	}
+}
+Pallas
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Pallas
+		base prestige = 100000020
+	}
+}
+Juno
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Juno
+		base prestige = 100000030
+	}
+}
+Hygiea
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hygiea
+		base prestige = 100000100
+	}
+}
+Psyche
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Psyche
+		base prestige = 100000160
+	}
+}
+Lutetia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Lutetia
+		base prestige = 100000210
+	}
+}
+Kalliope
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Kalliope
+		base prestige = 100000220
+	}
+}
+Linus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Linus
+		base prestige = 100000221
+	}
+}
+Eugenia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Eugenia
+		base prestige = 100000450
+	}
+}
+Petit-Prince
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Petit-Prince
+		base prestige = 100000451
+	}
+}
+S-2004_45_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2004_45_1
+		base prestige = 100000452
+	}
+}
+Virginia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Virginia
+		base prestige = 100000500
+	}
+}
+Cybele
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Cybele
+		base prestige = 100000650
+	}
+}
+Sylvia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Sylvia
+		base prestige = 100000870
+	}
+}
+Romulus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Romulus
+		base prestige = 100000871
+	}
+}
+Remus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Remus
+		base prestige = 100000872
+	}
+}
+Antiope
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Antiope
+		base prestige = 100000900
+	}
+}
+S-2000_90_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2000_90_1
+		base prestige = 100000901
+	}
+}
+Minerva
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Minerva
+		base prestige = 100000930
+	}
+}
+Aegis
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Aegis
+		base prestige = 100000931
+	}
+}
+Gorgoneion
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Gorgoneion
+		base prestige = 100000932
+	}
+}
+Camilla
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Camilla
+		base prestige = 100001070
+	}
+}
+S-2001_107_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2001_107_1
+		base prestige = 100001071
+	}
+}
+S-2016_107_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2016_107_1
+		base prestige = 100001072
+	}
+}
+Hermione
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hermione
+		base prestige = 100001210
+	}
+}
+S-2002_121_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2002_121_1
+		base prestige = 100001211
+	}
+}
+Elektra
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Elektra
+		base prestige = 100001300
+	}
+}
+S-2003_130_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2003_130_1
+		base prestige = 100001301
+	}
+}
+S-2014_130_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2014_130_1
+		base prestige = 100001302
+	}
+}
+S-2014_130_2
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2014_130_2
+		base prestige = 100001303
+	}
+}
+Kleopatra
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Kleopatra
+		base prestige = 100002160
+	}
+}
+Alexhelios
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Alexhelios
+		base prestige = 100002161
+	}
+}
+Cleoselene
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Cleoselene
+		base prestige = 100002162
+	}
+}
+Rosa
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Rosa
+		base prestige = 100002230
+	}
+}
+Ida
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ida
+		base prestige = 100002430
+	}
+}
+Dactyl
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Dactyl
+		base prestige = 100002431
+	}
+}
+Mathilde
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Mathilde
+		base prestige = 100002530
+	}
+}
+Nike
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Nike
+		base prestige = 100003070
+	}
+}
+Eros
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Eros
+		base prestige = 100004330
+	}
+}
+Patroclus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Patroclus
+		base prestige = 100006170
+	}
+}
+Menoetius
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Menoetius
+		base prestige = 100006171
+	}
+}
+Hektor
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hektor
+		base prestige = 100006240
+	}
+}
+Skamandrios
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Skamandrios
+		base prestige = 100006241
+	}
+}
+Interamnia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Interamnia
+		base prestige = 100007040
+	}
+}
+Hidalgo
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hidalgo
+		base prestige = 100009440
+	}
+}
+Gaspra
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Gaspra
+		base prestige = 100009510
+	}
+}
+Ganymed
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ganymed
+		base prestige = 100010360
+	}
+}
+Atami
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Atami
+		base prestige = 100011390
+	}
+}
+S-2005_1139_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2005_1139_1
+		base prestige = 100011391
+	}
+}
+Amor
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Amor
+		base prestige = 100012210
+	}
+}
+Icarus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Icarus
+		base prestige = 100015660
+	}
+}
+Geographos
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Geographos
+		base prestige = 100016200
+	}
+}
+Suomi
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Suomi
+		base prestige = 100016560
+	}
+}
+S-2020_1656_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2020_1656_1
+		base prestige = 100016561
+	}
+}
+Apollo
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Apollo
+		base prestige = 100018620
+	}
+}
+S-2005_1862_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2005_1862_1
+		base prestige = 100018621
+	}
+}
+Daedalus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Daedalus
+		base prestige = 100018640
+	}
+}
+Chiron
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Chiron
+		base prestige = 100020600
+	}
+}
+Aten
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Aten
+		base prestige = 100020620
+	}
+}
+Ra-Shalom
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ra-Shalom
+		base prestige = 100021000
+	}
+}
+Litva
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Litva
+		base prestige = 100025770
+	}
+}
+S-2009_2577_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2009_2577_1
+		base prestige = 100025771
+	}
+}
+S-2012_2577_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2012_2577_1
+		base prestige = 100025772
+	}
+}
+Masursky
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Masursky
+		base prestige = 100026850
+	}
+}
+Steins
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Steins
+		base prestige = 100028670
+	}
+}
+Florence
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Florence
+		base prestige = 100031220
+	}
+}
+S-2017_3122_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2017_3122_1
+		base prestige = 100031221
+	}
+}
+S-2017_3122_2
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2017_3122_2
+		base prestige = 100031222
+	}
+}
+Phaethon
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Phaethon
+		base prestige = 100032000
+	}
+}
+Eurybates
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Eurybates
+		base prestige = 100035480
+	}
+}
+Queta
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Queta
+		base prestige = 100035481
+	}
+}
+DonQuixote
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = DonQuixote
+		base prestige = 100035520
+	}
+}
+Balam
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Balam
+		base prestige = 100037490
+	}
+}
+S-2002_3749_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2002_3749_1
+		base prestige = 100037491
+	}
+}
+S-2007_3749_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2007_3749_1
+		base prestige = 100037492
+	}
+}
+Cruithne
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Cruithne
+		base prestige = 100037530
+	}
+}
+Toutatis
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Toutatis
+		base prestige = 100041790
+	}
+}
+Heracles
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Heracles
+		base prestige = 100051430
+	}
+}
+S-2011_5143_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2011_5143_1
+		base prestige = 100051431
+	}
+}
+Pholus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Pholus
+		base prestige = 100051450
+	}
+}
+Annefrank
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Annefrank
+		base prestige = 100055350
+	}
+}
+Talos
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Talos
+		base prestige = 100057860
+	}
+}
+Braille
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Braille
+		base prestige = 100099690
+	}
+}
+Bro
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Bro
+		base prestige = 100101280
+	}
+}
+Chariklo
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Chariklo
+		base prestige = 100101990
+	}
+}
+Leucus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Leucus
+		base prestige = 100113510
+	}
+}
+Polymele
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Polymele
+		base prestige = 100150940
+	}
+}
+S-2022_15094_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2022_15094_1
+		base prestige = 100150941
+	}
+}
+Arawn
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Arawn
+		base prestige = 100158100
+	}
+}
+Chaos
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Chaos
+		base prestige = 100195210
+	}
+}
+Varuna
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Varuna
+		base prestige = 100200000
+	}
+}
+S-0000_20000_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-0000_20000_1
+		base prestige = 100200001
+	}
+}
+Orus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Orus
+		base prestige = 100219000
+	}
+}
+Itokawa
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Itokawa
+		base prestige = 100251430
+	}
+}
+Ixion
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ixion
+		base prestige = 100289780
+	}
+}
+Scottmanley
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Scottmanley
+		base prestige = 100334340
+	}
+}
+Huya
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Huya
+		base prestige = 100386280
+	}
+}
+S-2012_38628_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2012_38628_1
+		base prestige = 100386281
+	}
+}
+Typhon
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Typhon
+		base prestige = 100423550
+	}
+}
+Echidna
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Echidna
+		base prestige = 100423551
+	}
+}
+Lempo
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Lempo
+		base prestige = 100471710
+	}
+}
+Paha
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Paha
+		base prestige = 100471711
+	}
+}
+Hiisi
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hiisi
+		base prestige = 100471712
+	}
+}
+Quaoar
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Quaoar
+		base prestige = 100500000
+	}
+}
+Weywot
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Weywot
+		base prestige = 100500001
+	}
+}
+S-0000_50000_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-0000_50000_1
+		base prestige = 100500002
+	}
+}
+Donaldjohanson
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Donaldjohanson
+		base prestige = 100522460
+	}
+}
+YORP
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = YORP
+		base prestige = 100545090
+	}
+}
+Aya
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Aya
+		base prestige = 100555650
+	}
+}
+Uni
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Uni
+		base prestige = 100556370
+	}
+}
+Tinia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Tinia
+		base prestige = 100556371
+	}
+}
+Logos
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Logos
+		base prestige = 100585340
+	}
+}
+Zoe
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Zoe
+		base prestige = 100585341
+	}
+}
+Ceto
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ceto
+		base prestige = 100654890
+	}
+}
+Phorcys
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Phorcys
+		base prestige = 100654891
+	}
+}
+Didymos
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Didymos
+		base prestige = 100658030
+	}
+}
+Dimorphos
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Dimorphos
+		base prestige = 100658031
+	}
+}
+Moshup
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Moshup
+		base prestige = 100663910
+	}
+}
+Squannit
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Squannit
+		base prestige = 100663911
+	}
+}
+Sedna
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Sedna
+		base prestige = 100903770
+	}
+}
+Orcus
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Orcus
+		base prestige = 100904820
+	}
+}
+Vanth
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Vanth
+		base prestige = 100904821
+	}
+}
+2002GZ32
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2002GZ32
+		base prestige = 100956260
+	}
+}
+Apophis
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Apophis
+		base prestige = 100999420
+	}
+}
+Bennu
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Bennu
+		base prestige = 101019550
+	}
+}
+Salacia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Salacia
+		base prestige = 101203470
+	}
+}
+Actaea
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Actaea
+		base prestige = 101203471
+	}
+}
+APL
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = APL
+		base prestige = 101325240
+	}
+}
+Nix
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Nix
+		base prestige = 101343402
+	}
+}
+Hydra
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hydra
+		base prestige = 101343403
+	}
+}
+Kerberos
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Kerberos
+		base prestige = 101343404
+	}
+}
+Styx
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Styx
+		base prestige = 101343405
+	}
+}
+Haumea
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Haumea
+		base prestige = 101361080
+	}
+}
+Hi'iaka
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hi'iaka
+		base prestige = 101361081
+	}
+}
+Namaka
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Namaka
+		base prestige = 101361082
+	}
+}
+Eris
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Eris
+		base prestige = 101361990
+	}
+}
+Dysnomia
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Dysnomia
+		base prestige = 101361991
+	}
+}
+Makemake
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Makemake
+		base prestige = 101364720
+	}
+}
+S-2015_136472_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2015_136472_1
+		base prestige = 101364721
+	}
+}
+1994CC
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 1994CC
+		base prestige = 101366170
+	}
+}
+S-2009_136617_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2009_136617_1
+		base prestige = 101366171
+	}
+}
+S-2009_136617_2
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2009_136617_2
+		base prestige = 101366172
+	}
+}
+Dinkinesh
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Dinkinesh
+		base prestige = 101528300
+	}
+}
+Selam
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Selam
+		base prestige = 101528301
+	}
+}
+2001SN263
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2001SN263
+		base prestige = 101535910
+	}
+}
+S-2008_153591_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2008_153591_1
+		base prestige = 101535911
+	}
+}
+S-2008_153591_2
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2008_153591_2
+		base prestige = 101535912
+	}
+}
+2001WN5
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2001WN5
+		base prestige = 101538140
+	}
+}
+Ryugu
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ryugu
+		base prestige = 101621730
+	}
+}
+Atira
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Atira
+		base prestige = 101636930
+	}
+}
+S-2017_163693_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2017_163693_1
+		base prestige = 101636931
+	}
+}
+Varda
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Varda
+		base prestige = 101745670
+	}
+}
+Ilmare
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ilmare
+		base prestige = 101745671
+	}
+}
+Achlys
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Achlys
+		base prestige = 102089960
+	}
+}
+S-2005_208996_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2005_208996_1
+		base prestige = 102089961
+	}
+}
+Gonggong
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Gonggong
+		base prestige = 102250880
+	}
+}
+Xiangliu
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Xiangliu
+		base prestige = 102250881
+	}
+}
+G!kun'homdima
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = G!kun'homdima
+		base prestige = 102297620
+	}
+}
+G!o'e!Hu
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = G!o'e!Hu
+		base prestige = 102297621
+	}
+}
+2006VW139
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2006VW139
+		base prestige = 103001630
+	}
+}
+S-2011_300163_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2011_300163_1
+		base prestige = 103001631
+	}
+}
+Mani
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Mani
+		base prestige = 103072610
+	}
+}
+Duende
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Duende
+		base prestige = 103679430
+	}
+}
+Manwe
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Manwe
+		base prestige = 103854460
+	}
+}
+Thorondor
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Thorondor
+		base prestige = 103854461
+	}
+}
+Kamo`oalewa
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Kamo`oalewa
+		base prestige = 104692190
+	}
+}
+Kagara
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Kagara
+		base prestige = 104697050
+	}
+}
+!Haunu
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = !Haunu
+		base prestige = 104697051
+	}
+}
+Dziewanna
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Dziewanna
+		base prestige = 104711430
+	}
+}
+Arrokoth
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Arrokoth
+		base prestige = 104869580
+	}
+}
+Ka`epaoka`awela
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Ka`epaoka`awela
+		base prestige = 105141070
+	}
+}
+Zoozve
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Zoozve
+		base prestige = 105245220
+	}
+}
+Chiminigagua
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Chiminigagua
+		base prestige = 105320370
+	}
+}
+S-2018_532037_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-2018_532037_1
+		base prestige = 105320371
+	}
+}
+Leleakuhonua
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Leleakuhonua
+		base prestige = 105411320
+	}
+}
+'Aylo'chaxnim
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 'Aylo'chaxnim
+		base prestige = 105949130
+	}
+}
+2005HC4
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2005HC4
+		base prestige = 10200504201030
+	}
+}
+2012VP113
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2012VP113
+		base prestige = 10201211128400
+	}
+}
+2014FE72
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2014FE72
+		base prestige = 10201403218050
+	}
+}
+2017OF201
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2017OF201
+		base prestige = 10201707250310
+	}
+}
+1P-Halley
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 1P-Halley
+		base prestige = 110000010
+	}
+}
+2P-Encke
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2P-Encke
+		base prestige = 110000020
+	}
+}
+6P-d'Arrest
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 6P-d'Arrest
+		base prestige = 110000060
+	}
+}
+8P-Tuttle
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 8P-Tuttle
+		base prestige = 110000080
+	}
+}
+9P-Tempel1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 9P-Tempel1
+		base prestige = 110000090
+	}
+}
+10P-Tempel2
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 10P-Tempel2
+		base prestige = 110000100
+	}
+}
+19P-Borrelly
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 19P-Borrelly
+		base prestige = 110000190
+	}
+}
+21P-Giacobini-Zinner
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 21P-Giacobini-Zinner
+		base prestige = 110000210
+	}
+}
+26P-Grigg-Skjellerup
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 26P-Grigg-Skjellerup
+		base prestige = 110000260
+	}
+}
+29P-Schwassmann-Wachmann1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 29P-Schwassmann-Wachmann1
+		base prestige = 110000290
+	}
+}
+46P-Wirtanen
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 46P-Wirtanen
+		base prestige = 110000460
+	}
+}
+67P-Churyumov-Gerasimenko
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 67P-Churyumov-Gerasimenko
+		base prestige = 110000670
+	}
+}
+81P-Wild2
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 81P-Wild2
+		base prestige = 110000810
+	}
+}
+103P-Hartley2
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 103P-Hartley2
+		base prestige = 110001030
+	}
+}
+153P-Ikeya-Zhang
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 153P-Ikeya-Zhang
+		base prestige = 110001530
+	}
+}
+311P-PanSTARRS
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 311P-PanSTARRS
+		base prestige = 110003110
+	}
+}
+S-0000_311P_1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = S-0000_311P_1
+		base prestige = 110003111
+	}
+}
+Hale-Bopp
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Hale-Bopp
+		base prestige = 11199507200010
+	}
+}
+C-1992J1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = C-1992J1
+		base prestige = 11199205100010
+	}
+}
+C-2012C1
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = C-2012C1
+		base prestige = 11201202100010
+	}
+}
+Bernardinelli-Bernstein
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = Bernardinelli-Bernstein
+		base prestige = 11201410267880
+	}
+}
+1I-'Oumuamua
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 1I-'Oumuamua
+		base prestige = 120000010
+	}
+}
+2I-Borisov
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 2I-Borisov
+		base prestige = 120000020
+	}
+}
+3I-ATLAS
+{
+	gas giant = false
+	FinalFrontier
+	{
+		ribbon path = RSSOrigin2/Patches/Ribbons
+		ribbon group = 3I-ATLAS
+		base prestige = 120000030
+	}
+}
